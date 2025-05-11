@@ -1,6 +1,7 @@
 {
   // List of extensions recommended for this project
   "recommendations": [
-    "esbenp.prettier-vscode" // Code formatting
+    "esbenp.prettier-vscode", // Code formatting
+    "dbaeumer.vscode-eslint" // Linting
   ]
 }
