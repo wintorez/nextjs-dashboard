@@ -2,3 +2,4 @@ onlyBuiltDependencies:
   - '@vercel/speed-insights'
   - bcrypt
   - sharp
+  - unrs-resolver
